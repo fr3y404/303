@@ -4,7 +4,3 @@
 </a>
 <div class="header-right">
 <span class="register-section">
-<a class="register-button" href="<?php echo $selected_line1; ?>" target="_top">Daftar Akun Asli</a>
-</span>
-</div>
-</div>
