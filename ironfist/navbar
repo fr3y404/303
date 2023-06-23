@@ -1,0 +1,10 @@
+<div class="logo-container">
+<a aria-label="Beranda link menuju ke halaman situs slot demo terbaik" class="logo" href="#">
+<img alt="logo Rtp Slot Demo" height="48" layout="responsive" src="https://res.cloudinary.com/microalpha/image/upload/v1687011494/sister.trunojoyo.ac.id/rtp-slot-demo/blackpink777-logo_bkykc2.webp" width="150" ></img>
+</a>
+<div class="header-right">
+<span class="register-section">
+<a class="register-button" href="<?php echo $selected_line1; ?>" target="_top">Daftar Akun Asli</a>
+</span>
+</div>
+</div>
